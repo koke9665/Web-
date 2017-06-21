@@ -3,6 +3,11 @@ h1.logo{
   height:200px;
   text-align: center;
 }
+nav.header{
+  float:right;
+  background-color: #88d4d8;
+  display: inline-block;
+}
 img{
   width:500px;
 }
