@@ -3,9 +3,12 @@ h1.logo{
   height:200px;
   text-align: center;
 }
-nav.header{
+.header{
   float:right;
   background-color: #88d4d8;
+  margin-bottom:10px;
+}
+.header li{
   display: inline-block;
 }
 img{
