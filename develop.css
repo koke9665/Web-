@@ -15,6 +15,9 @@ h1.logo{
 .header li{
   display: inline-block;
 }
-img{
+.logo{
   width:500px;
+}
+.image2{
+  width:250px;
 }
