@@ -8,6 +8,10 @@ h1.logo{
   background-color: #88d4d8;
   margin-bottom:10px;
 }
+.header li a{
+  text-decoration: none;
+  color:#44a;
+}
 .header li{
   display: inline-block;
 }
