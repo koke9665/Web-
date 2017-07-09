@@ -19,6 +19,29 @@ h1.logo{
 .logo{
   width:500px;
 }
-.image2{
-  width:250px;
+.event-column{
+  float:left;
+  width:400px;
+  margin-right:25px;
+  margin-left:25px;
+  position:relative;
+  margin-bottom:30px;
+}
+.bottom-comment{
+  float: left;
+  padding: 44%;
+  padding-bottom: 40px;
+  padding-top: 35px;
+  background-color: #dfa3ff;
+  text-align: center;
+}
+.bottom-comment li{
+  display: block;
+}
+.news{
+  float:left;
+  margin-left: 14%;
+}
+.contents{
+  margin-left:20px;
 }
