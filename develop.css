@@ -41,6 +41,11 @@ h1.logo{
 .news{
   float:right;
   margin-left: 1%;
+  margin-top: 3%;
+  margin-right:3%;
+  width: 23%;
+  font-size: 16px;
+  background-color: #FFC107;
 }
 .contents{
   margin-left:20px;
