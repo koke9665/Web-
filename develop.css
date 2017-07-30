@@ -39,8 +39,8 @@ h1.logo{
   display: block;
 }
 .news{
-  float:left;
-  margin-left: 14%;
+  float:right;
+  margin-left: 1%;
 }
 .contents{
   margin-left:20px;
